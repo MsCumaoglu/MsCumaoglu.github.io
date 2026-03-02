@@ -1,0 +1,22 @@
+MuteMaster Gizlilik Politikası
+MuteMaster, kullanıcı gizliliğine önem verir.
+Toplanan Veriler
+MuteMaster hiçbir kişisel veri toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.
+Uygulama:
+Ad, e-posta, telefon numarası toplamaz.
+Konum bilgisi toplamaz.
+Rehber veya mesajlara erişmez.
+Arka planda veri göndermez.
+İzinler
+MuteMaster, yalnızca aşağıdaki izinleri kullanır:
+Rahatsız Etmeyin (Do Not Disturb) erişimi: Telefonu belirlenen saatlerde sessize almak için.
+Bildirim erişimi: Sessiz mod durumunu yönetmek için.
+Bu izinler yalnızca uygulamanın temel işlevini yerine getirmesi için kullanılır.
+Veri Paylaşımı
+MuteMaster hiçbir kullanıcı verisini üçüncü taraflarla paylaşmaz.
+Çocukların Gizliliği
+MuteMaster çocuklara özel içerik sunmaz ve çocuklardan veri toplamaz.
+
+İletişim
+Sorular için:
+ms.cumaoglu0@gmail.com
