@@ -1,0 +1,82 @@
+Gizlilik Politikası (ShopMind)
+
+Son Güncelleme Tarihi: 2026
+
+ShopMind olarak kullanıcılarımızın gizliliğine önem veriyoruz. Bu Gizlilik Politikası, uygulamamızı kullanırken hangi bilgilerin toplandığını ve bu bilgilerin nasıl kullanıldığını açıklar.
+
+1. Toplanan Bilgiler
+
+ShopMind aşağıdaki bilgileri toplayabilir:
+
+a) Kullanıcı Tarafından Sağlanan Bilgiler
+Oluşturulan alışveriş listeleri
+Eklenen ürünler ve içerikler
+Uygulama içi tercihler (dil, tema vb.)
+b) Otomatik Olarak Toplanan Bilgiler
+Cihaz bilgileri (model, işletim sistemi)
+Uygulama kullanım verileri (hangi ekranların kullanıldığı gibi anonim veriler)
+2. Bilgilerin Kullanımı
+
+Toplanan bilgiler şu amaçlarla kullanılır:
+
+Uygulama fonksiyonlarını sağlamak ve geliştirmek
+Kullanıcı deneyimini iyileştirmek
+Uygulama performansını analiz etmek
+Hataları tespit etmek ve düzeltmek
+3. Veri Paylaşımı
+
+ShopMind:
+
+Kullanıcı verilerini üçüncü taraflarla satmaz
+Kişisel verileri izinsiz olarak paylaşmaz
+
+Ancak aşağıdaki durumlarda veri paylaşımı olabilir:
+
+Yasal yükümlülükler gereği
+Hizmet sağlayıcılar (örneğin analiz araçları) ile sınırlı ve gerekli ölçüde
+4. Veri Saklama
+Kullanıcı verileri yalnızca gerekli olduğu süre boyunca saklanır
+Kullanıcı verilerini silmek isterse uygulama içinden veya iletişim yoluyla talep edebilir
+5. Güvenlik
+
+Verilerinizin güvenliği bizim için önemlidir.
+Bu nedenle:
+
+Güncel güvenlik önlemleri uygulanır
+Yetkisiz erişime karşı koruma sağlanır
+
+Ancak hiçbir sistemin %100 güvenli olmadığı unutulmamalıdır.
+
+6. Çocukların Gizliliği
+
+ShopMind, 13 yaş altındaki çocuklara yönelik değildir.
+Bilerek çocuklardan veri toplanmaz.
+
+7. Üçüncü Taraf Hizmetler
+
+Uygulama aşağıdaki hizmetleri kullanabilir:
+
+Analitik servisler (örneğin Firebase Analytics)
+
+Bu servisler kendi gizlilik politikalarına sahiptir.
+
+8. Haklarınız
+
+Kullanıcı olarak:
+
+Verilerinize erişme
+Verilerinizi silme talep etme
+Veri kullanımına itiraz etme
+
+haklarına sahipsiniz.
+
+9. Değişiklikler
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir.
+Güncellemeler uygulama içinde veya ilgili sayfada yayınlanır.
+
+10. İletişim
+
+Gizlilik ile ilgili sorularınız için:
+
+📧 Email: m.cumaoglu0@gmail.com
