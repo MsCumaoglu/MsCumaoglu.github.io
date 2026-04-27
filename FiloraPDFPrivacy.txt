@@ -1,0 +1,92 @@
+Filora PDF – Privacy Policy
+
+Last updated: April 27, 2026
+
+Filora PDF ("we", "our", or "us") respects your privacy. This Privacy Policy explains how our application handles your information.
+
+1. Information We Collect
+
+Filora PDF does not collect, store, or share any personal user data.
+
+We do not require account creation, and we do not collect:
+
+* Name, email address, or contact information
+* Location data
+* Personal files or documents
+
+2. File Access and Usage
+
+Filora PDF allows users to:
+
+* Select PDF or image files from their device
+* Create, edit, merge, or convert PDF files
+
+All file operations are performed locally on the user’s device.
+
+We do not:
+
+* Upload files to any server
+* Store files externally
+* Share files with third parties
+
+Users explicitly choose files using the system file picker (Storage Access Framework), ensuring full control over file access.
+
+3. Storage Access
+
+Filora PDF uses privacy-friendly storage access methods in compliance with Android policies.
+
+* The app does NOT request "All Files Access"
+* Files are accessed only when the user selects them
+* Files may be saved either:
+
+  * In app-specific storage
+  * In a location chosen by the user
+
+4. Camera Usage
+
+The app may request camera permission to scan documents and create PDFs.
+
+* Images captured are processed locally
+* No camera data is transmitted or stored externally
+
+5. Advertising
+
+Filora PDF may use Google AdMob to display ads.
+
+AdMob may collect:
+
+* Device identifiers
+* Usage data for personalized or non-personalized ads
+
+For more information:
+https://policies.google.com/privacy
+
+6. Data Security
+
+All operations are performed locally on your device. We do not transmit or store your data externally.
+
+7. Third-Party Services
+
+Filora PDF uses the following third-party services:
+
+* Google AdMob (advertising)
+
+These services may collect information as described in their own privacy policies.
+
+8. Children’s Privacy
+
+Filora PDF does not target children under the age of 13 and does not knowingly collect any personal information from children.
+
+9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted within the app or on our official page.
+
+10. Contact
+
+If you have any questions, you can contact us at:
+
+Email: m.cumaoglu0@gmail.com
+
+---
+
+By using Filora PDF, you agree to this Privacy Policy.
