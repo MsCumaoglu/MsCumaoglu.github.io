@@ -1,0 +1,150 @@
+# Privacy Policy for MuteMaster
+
+**Last updated:** May 12, 2026
+
+Welcome to MuteMaster.
+
+MuteMaster is a focus and notification management application designed to help users reduce distractions by controlling and filtering notifications during scheduled focus sessions.
+
+This Privacy Policy explains what data MuteMaster accesses, how it is used, and how it is stored.
+
+---
+
+# 1. Information We Access
+
+MuteMaster may access the following information on your device:
+
+## Notification Data
+When Notification Access permission is granted, MuteMaster can access:
+
+- Notification app name
+- Notification title
+- Notification message text
+- Notification receive time
+
+This access is required for the app’s core functionality:
+- Blocking distracting notifications
+- Allowing selected apps during focus sessions
+- Displaying blocked notification history
+
+## Installed Applications
+MuteMaster reads the list of installed applications on your device so you can:
+- Select allowed apps
+- Create app groups
+- Configure focus plans
+
+## Advertising Identifier (Ad ID)
+If ads are enabled, Google AdMob may collect advertising identifiers to provide and improve advertising services.
+
+---
+
+# 2. How Your Data Is Used
+
+MuteMaster uses accessed information only for app functionality, including:
+
+- Managing focus sessions
+- Filtering notifications
+- Allowing selected apps
+- Displaying blocked notification history
+- Scheduling focus plans
+
+MuteMaster does NOT:
+- Upload your notification content to external servers
+- Sell your personal data
+- Share your notification content with third parties
+- Use your notifications for profiling or tracking
+
+---
+
+# 3. Local Device Storage
+
+Notification history and app settings are stored locally on your device.
+
+MuteMaster does not operate its own cloud servers for notification storage.
+
+You can clear stored notification history at any time from the app settings.
+
+Uninstalling the app removes locally stored application data according to your device settings.
+
+---
+
+# 4. Advertising
+
+MuteMaster uses Google AdMob to display advertisements.
+
+AdMob may collect and process certain data, including:
+- Advertising ID
+- Device information
+- Ad interaction data
+
+Advertising may be personalized depending on your consent choices and region.
+
+Users in supported regions will be shown a consent form before personalized ads are displayed.
+
+You can change your ad preferences at any time inside:
+Settings → Privacy & Legal → Manage Ad Preferences
+
+For more information about Google's advertising policies:
+https://policies.google.com/technologies/ads
+
+Google Privacy Policy:
+https://policies.google.com/privacy
+
+---
+
+# 5. Permissions Used
+
+MuteMaster may request the following permissions:
+
+## Notification Access
+Required to:
+- Detect incoming notifications
+- Block distracting notifications
+- Allow selected apps
+- Maintain blocked notification history
+
+## Exact Alarm Permission
+Required to:
+- Activate and deactivate focus sessions at precise scheduled times
+
+## Boot Permission
+Required to:
+- Restore focus schedules after device restart
+
+---
+
+# 6. Data Sharing
+
+MuteMaster does not share notification content or blocked notification history with third parties.
+
+Advertising-related data may be processed by Google AdMob according to Google's policies.
+
+---
+
+# 7. Data Security
+
+MuteMaster is designed to keep your notification data on your device whenever possible.
+
+However, no method of electronic storage is completely secure, and we cannot guarantee absolute security.
+
+---
+
+# 8. Children's Privacy
+
+MuteMaster is not directed toward children under the age required by local digital consent laws.
+
+---
+
+# 9. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time.
+
+Changes will be reflected by updating the "Last updated" date above.
+
+---
+
+# 10. Contact
+
+If you have questions about this Privacy Policy, you may contact:
+
+Email: m.cumaoglu0@gmail.app
